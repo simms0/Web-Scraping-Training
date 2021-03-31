@@ -1,0 +1,1 @@
+This project contains my practice work on web scraping, crawling and technologies related to the processing and display of that information. This work will enable the future stamp scrape and blu scrape projects.
